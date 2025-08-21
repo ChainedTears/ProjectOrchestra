@@ -6,3 +6,5 @@ Instead of presenting raw HTML, process the DOM into a simplified tree structure
 
 ### OPTIONAL: Visual Context
 We can attempt to finetune vision models to process visual layout with the DOM structure, results not guranteed.
+
+# [BACK](README.md)
